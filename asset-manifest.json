@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/igdkaur/My-Task-Tracker/static/css/main.4e758486.chunk.css",
-    "main.js": "/igdkaur/My-Task-Tracker/static/js/main.63473b1f.chunk.js",
-    "main.js.map": "/igdkaur/My-Task-Tracker/static/js/main.63473b1f.chunk.js.map",
-    "runtime-main.js": "/igdkaur/My-Task-Tracker/static/js/runtime-main.252b2a35.js",
-    "runtime-main.js.map": "/igdkaur/My-Task-Tracker/static/js/runtime-main.252b2a35.js.map",
-    "static/js/2.dba07b00.chunk.js": "/igdkaur/My-Task-Tracker/static/js/2.dba07b00.chunk.js",
-    "static/js/2.dba07b00.chunk.js.map": "/igdkaur/My-Task-Tracker/static/js/2.dba07b00.chunk.js.map",
-    "static/js/3.f29d6afb.chunk.js": "/igdkaur/My-Task-Tracker/static/js/3.f29d6afb.chunk.js",
-    "static/js/3.f29d6afb.chunk.js.map": "/igdkaur/My-Task-Tracker/static/js/3.f29d6afb.chunk.js.map",
-    "index.html": "/igdkaur/My-Task-Tracker/index.html",
-    "static/css/main.4e758486.chunk.css.map": "/igdkaur/My-Task-Tracker/static/css/main.4e758486.chunk.css.map",
-    "static/js/2.dba07b00.chunk.js.LICENSE.txt": "/igdkaur/My-Task-Tracker/static/js/2.dba07b00.chunk.js.LICENSE.txt"
+    "main.css": "/My-Task-Tracker/static/css/main.4e758486.chunk.css",
+    "main.js": "/My-Task-Tracker/static/js/main.63473b1f.chunk.js",
+    "main.js.map": "/My-Task-Tracker/static/js/main.63473b1f.chunk.js.map",
+    "runtime-main.js": "/My-Task-Tracker/static/js/runtime-main.4d2ddc92.js",
+    "runtime-main.js.map": "/My-Task-Tracker/static/js/runtime-main.4d2ddc92.js.map",
+    "static/js/2.dba07b00.chunk.js": "/My-Task-Tracker/static/js/2.dba07b00.chunk.js",
+    "static/js/2.dba07b00.chunk.js.map": "/My-Task-Tracker/static/js/2.dba07b00.chunk.js.map",
+    "static/js/3.f29d6afb.chunk.js": "/My-Task-Tracker/static/js/3.f29d6afb.chunk.js",
+    "static/js/3.f29d6afb.chunk.js.map": "/My-Task-Tracker/static/js/3.f29d6afb.chunk.js.map",
+    "index.html": "/My-Task-Tracker/index.html",
+    "static/css/main.4e758486.chunk.css.map": "/My-Task-Tracker/static/css/main.4e758486.chunk.css.map",
+    "static/js/2.dba07b00.chunk.js.LICENSE.txt": "/My-Task-Tracker/static/js/2.dba07b00.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.252b2a35.js",
+    "static/js/runtime-main.4d2ddc92.js",
     "static/js/2.dba07b00.chunk.js",
     "static/css/main.4e758486.chunk.css",
     "static/js/main.63473b1f.chunk.js"
